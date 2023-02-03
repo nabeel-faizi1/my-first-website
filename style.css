@@ -1,0 +1,224 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #4189DD33;
+    ;
+}
+.main{
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+/* .main h3{
+    margin-left: 640px;
+    font-size:30px ;
+    color: #4688F1; */
+/*     
+} */
+
+#rightpic{
+    margin-left: 50px
+}
+
+ #car {
+    margin-left: 20px;
+    border: 1px solid white;
+    height: 62vh;
+    width: 284px;
+    background-color: white;
+}
+
+
+
+#right{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+ #car1 {
+    border: 1px solid white;
+    height: 62vh;
+    width: 284px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#left {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+    row-gap: 15px;
+}
+#elec {
+    width: 100%;
+    font-size: 42px;
+    display: flex;
+    justify-content: center;
+    color: #4688F1;
+    padding-top: 80px;
+}
+
+
+ #electro {
+    border: 1px solid white;
+    height: 62vh;
+    width: 284px;
+    background-color: white;
+}
+
+#img1{
+    margin-left: -4%;
+}
+
+.left1{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+ #electro1 {
+    border: 1px solid white;
+    height: 62vh;
+    width: 284px;
+    background-color: white;
+    border-radius: 10px;
+}
+/* .leftmenu{
+    width: 60%;
+    font-size: 30px;
+    float: right;
+    
+} */
+.leftmenu button{
+  border-radius: 13px;
+  background-color: #4688F1;
+   margin-top: 50px;
+   font-size: 20px;
+}
+/* .leftmenu1{
+    width: 30%;
+    float: right;
+    margin-top: 140px;
+    margin-left: 480px;
+} */
+.m2{
+    width: 100%;
+
+}
+.leftmenu{
+    text-align: center;
+}
+#aa{
+    padding-top: 50px;
+    /* background-color: aliceblue; */
+}
+.left2{
+    width: 100%;
+    /* background-color: aliceblue; */
+}
+#new{
+   display: grid;
+   grid-template-columns: auto auto auto auto auto;
+   background-color:aliceblue;
+   row-gap: 10px;
+
+}
+#one{
+    border: 1px solid beige;
+    background-color: white;
+    row-gap: 10px;
+}
+#two{
+    border: 1px solid beige;
+    background-color: white;
+}
+#three{
+    border: 1px solid beige;
+    background-color: white;
+}
+#four{
+    border: 1px solid beige;
+    background-color: white;
+}
+#five{
+    border: 1px solid beige;
+    background-color: white;
+}
+#six{
+    border: 1px solid beige;
+    background-color: white;
+}
+#seven{
+    border: 1px solid beige;
+    background-color: white;
+}
+#eight{
+    border: 1px solid beige;
+    background-color: white;
+}
+#nine{
+    border: 1px solid beige;
+    background-color: white;
+}
+#ten{
+    border: 1px solid beige;
+    background-color: white;
+}
+#car1 span{
+    color: #4688F1;
+}
+#car span{
+    color: #4688F1;
+}
+.left3{
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 100px;
+    width: 1128px;
+    margin-left: 8%;
+    border-radius: 40px;
+    background-color: #E7F4FD;
+    height: 80vh;
+
+}
+.new2{
+    width: 78%;
+    margin-top: 170px;
+    padding-left: 135px;
+    
+}
+#google{
+    width: 15vh;
+}
+#app{
+    width: 15vh;
+    text-align: center;
+}
+.new3{
+    margin-left: 624px;
+    margin-top: -275px;
+}
+#team{
+    margin-left: -248px;
+}
+#team1{
+    margin-left: 255px;
+    width: 38vh;
+    margin-top: -235px;
+}
+#electro1 span{
+    color: #4688F1;
+
+}
+
+/* #op{
+    margin-top: 10px; */
